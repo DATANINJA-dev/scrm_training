@@ -1,4 +1,4 @@
-# Introduction to SQL with Snowflake
+# Introduction to SQL
 
 Welcome to the world of SQL using Snowflake! This guide will introduce you to the basics of SQL and how to use Snowflake for managing and querying data.
 
