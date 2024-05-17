@@ -1,6 +1,6 @@
 # Introduction to SQL
 
-Welcome to the world of SQL using Snowflake! This guide will introduce you to the basics of SQL and how to use Snowflake for managing and querying data.
+Welcome to the world of SQL! This guide will introduce you to the basics of SQL and how to use it for managing and querying data.
 
 ## What is SQL?
 SQL (Structured Query Language) is a standard programming language specifically designed for managing data held in a relational database management system. It is used for tasks such as querying, updating, and managing data.
